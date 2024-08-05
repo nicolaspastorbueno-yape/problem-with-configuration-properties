@@ -24,7 +24,15 @@ public class ListsToFil {
     this.list3 = list3;
   }
 
-  /**
-   * some getters
-   */
+  public List<String> getList1() {
+    return list1;
+  }
+
+  public List<String> getList2() {
+    return list2;
+  }
+
+  public List<String> getList3() {
+    return list3;
+  }
 }
